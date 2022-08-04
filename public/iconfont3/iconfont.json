@@ -1,0 +1,44 @@
+{
+  "id": "3540602",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1488894",
+      "name": "唱片",
+      "font_class": "changpian",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1727447",
+      "name": "216更多-竖向",
+      "font_class": "gengduo-shuxiang",
+      "unicode": "e8c4",
+      "unicode_decimal": 59588
+    },
+    {
+      "icon_id": "2076194",
+      "name": "喜欢",
+      "font_class": "xihuan",
+      "unicode": "e86f",
+      "unicode_decimal": 59503
+    },
+    {
+      "icon_id": "2410473",
+      "name": "加载",
+      "font_class": "jiazai",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "11372687",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e8b4",
+      "unicode_decimal": 59572
+    }
+  ]
+}

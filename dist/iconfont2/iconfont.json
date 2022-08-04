@@ -1,0 +1,93 @@
+{
+  "id": "2661229",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1718323",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "630092",
+      "name": "向下箭头",
+      "font_class": "xiangxiajiantou",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "2076191",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e86e",
+      "unicode_decimal": 59502
+    },
+    {
+      "icon_id": "2076265",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e891",
+      "unicode_decimal": 59537
+    },
+    {
+      "icon_id": "6260305",
+      "name": "收藏夹",
+      "font_class": "shoucangjia",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "2674483",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "2674474",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "7594163",
+      "name": "24gf-playlistHeart",
+      "font_class": "24gf-playlistHeart",
+      "unicode": "ea84",
+      "unicode_decimal": 60036
+    },
+    {
+      "icon_id": "666893",
+      "name": "系统返回",
+      "font_class": "xitongfanhui",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "1727447",
+      "name": "216更多-竖向",
+      "font_class": "gengduo-shuxiang",
+      "unicode": "e8c4",
+      "unicode_decimal": 59588
+    },
+    {
+      "icon_id": "4338063",
+      "name": "Apple Music",
+      "font_class": "index1",
+      "unicode": "e733",
+      "unicode_decimal": 59187
+    },
+    {
+      "icon_id": "4338065",
+      "name": "Apple",
+      "font_class": "Apple",
+      "unicode": "e734",
+      "unicode_decimal": 59188
+    }
+  ]
+}
